@@ -1,0 +1,355 @@
+﻿repeat 1 prompt 20 fixed_2      61.90 tok/s
+repeat 1 prompt 20 random       57.94 tok/s
+repeat 1 prompt 20 target_only  53.54 tok/s
+repeat 1 prompt 20 fixed_3      66.18 tok/s
+repeat 1 prompt 20 rl           67.89 tok/s
+repeat 1 prompt 20 fixed_1      67.42 tok/s
+repeat 1 prompt 20 fixed_4      64.18 tok/s
+repeat 1 prompt  6 rl           56.57 tok/s
+repeat 1 prompt  6 fixed_3      51.78 tok/s
+repeat 1 prompt  6 random       56.40 tok/s
+repeat 1 prompt  6 fixed_1      62.86 tok/s
+repeat 1 prompt  6 target_only  53.35 tok/s
+repeat 1 prompt  6 fixed_2      58.46 tok/s
+repeat 1 prompt  6 fixed_4      45.71 tok/s
+repeat 1 prompt 15 random       61.30 tok/s
+repeat 1 prompt 15 target_only  53.22 tok/s
+repeat 1 prompt 15 fixed_3      68.58 tok/s
+repeat 1 prompt 15 fixed_4      69.31 tok/s
+repeat 1 prompt 15 fixed_1      69.30 tok/s
+repeat 1 prompt 15 rl           69.13 tok/s
+repeat 1 prompt 15 fixed_2      65.87 tok/s
+repeat 1 prompt  5 fixed_4      52.42 tok/s
+repeat 1 prompt  5 random       50.41 tok/s
+repeat 1 prompt  5 fixed_1      59.70 tok/s
+repeat 1 prompt  5 fixed_2      59.29 tok/s
+repeat 1 prompt  5 rl           55.98 tok/s
+repeat 1 prompt  5 fixed_3      52.78 tok/s
+repeat 1 prompt  5 target_only  53.01 tok/s
+repeat 1 prompt 10 fixed_2      54.41 tok/s
+repeat 1 prompt 10 fixed_4      41.64 tok/s
+repeat 1 prompt 10 fixed_1      55.43 tok/s
+repeat 1 prompt 10 random       44.56 tok/s
+repeat 1 prompt 10 fixed_3      46.60 tok/s
+repeat 1 prompt 10 target_only  53.45 tok/s
+repeat 1 prompt 10 rl           54.06 tok/s
+repeat 1 prompt 14 fixed_1      55.81 tok/s
+repeat 1 prompt 14 target_only  53.26 tok/s
+repeat 1 prompt 14 fixed_3      48.74 tok/s
+repeat 1 prompt 14 random       56.90 tok/s
+repeat 1 prompt 14 rl           54.65 tok/s
+repeat 1 prompt 14 fixed_2      55.97 tok/s
+repeat 1 prompt 14 fixed_4      48.09 tok/s
+repeat 1 prompt 16 fixed_2      66.40 tok/s
+repeat 1 prompt 16 fixed_4      66.17 tok/s
+repeat 1 prompt 16 fixed_3      69.39 tok/s
+repeat 1 prompt 16 fixed_1      67.92 tok/s
+repeat 1 prompt 16 rl           67.75 tok/s
+repeat 1 prompt 16 target_only  53.12 tok/s
+repeat 1 prompt 16 random       58.17 tok/s
+repeat 1 prompt 19 fixed_4      55.38 tok/s
+repeat 1 prompt 19 fixed_2      66.64 tok/s
+repeat 1 prompt 19 random       61.32 tok/s
+repeat 1 prompt 19 fixed_3      61.24 tok/s
+repeat 1 prompt 19 target_only  53.19 tok/s
+repeat 1 prompt 19 fixed_1      63.13 tok/s
+repeat 1 prompt 19 rl           64.23 tok/s
+repeat 1 prompt  7 fixed_3      50.03 tok/s
+repeat 1 prompt  7 target_only  53.29 tok/s
+repeat 1 prompt  7 fixed_4      44.66 tok/s
+repeat 1 prompt  7 rl           57.32 tok/s
+repeat 1 prompt  7 fixed_1      58.51 tok/s
+repeat 1 prompt  7 fixed_2      52.62 tok/s
+repeat 1 prompt  7 random       51.77 tok/s
+repeat 1 prompt 13 fixed_3      67.24 tok/s
+repeat 1 prompt 13 fixed_4      62.92 tok/s
+repeat 1 prompt 13 rl           69.26 tok/s
+repeat 1 prompt 13 fixed_1      68.80 tok/s
+repeat 1 prompt 13 target_only  52.88 tok/s
+repeat 1 prompt 13 fixed_2      64.35 tok/s
+repeat 1 prompt 13 random       59.39 tok/s
+repeat 1 prompt 18 rl           57.81 tok/s
+repeat 1 prompt 18 target_only  53.13 tok/s
+repeat 1 prompt 18 fixed_4      43.97 tok/s
+repeat 1 prompt 18 fixed_2      59.03 tok/s
+repeat 1 prompt 18 random       46.72 tok/s
+repeat 1 prompt 18 fixed_3      52.50 tok/s
+repeat 1 prompt 18 fixed_1      57.53 tok/s
+repeat 1 prompt 11 rl           57.79 tok/s
+repeat 1 prompt 11 fixed_3      50.95 tok/s
+repeat 1 prompt 11 fixed_4      46.61 tok/s
+repeat 1 prompt 11 fixed_1      54.71 tok/s
+repeat 1 prompt 11 target_only  53.32 tok/s
+repeat 1 prompt 11 fixed_2      51.87 tok/s
+repeat 1 prompt 11 random       52.48 tok/s
+repeat 1 prompt  2 fixed_4      47.40 tok/s
+repeat 1 prompt  2 rl           56.39 tok/s
+repeat 1 prompt  2 random       45.26 tok/s
+repeat 1 prompt  2 fixed_1      62.50 tok/s
+repeat 1 prompt  2 target_only  53.21 tok/s
+repeat 1 prompt  2 fixed_2      59.54 tok/s
+repeat 1 prompt  2 fixed_3      53.56 tok/s
+repeat 1 prompt 12 target_only  53.04 tok/s
+repeat 1 prompt 12 rl           53.44 tok/s
+repeat 1 prompt 12 fixed_2      47.41 tok/s
+repeat 1 prompt 12 fixed_4      37.41 tok/s
+repeat 1 prompt 12 fixed_3      38.25 tok/s
+repeat 1 prompt 12 random       46.01 tok/s
+repeat 1 prompt 12 fixed_1      56.63 tok/s
+repeat 1 prompt  3 target_only  52.97 tok/s
+repeat 1 prompt  3 fixed_3      57.39 tok/s
+repeat 1 prompt  3 random       54.21 tok/s
+repeat 1 prompt  3 fixed_4      48.61 tok/s
+repeat 1 prompt  3 rl           57.07 tok/s
+repeat 1 prompt  3 fixed_2      63.04 tok/s
+repeat 1 prompt  3 fixed_1      64.70 tok/s
+repeat 1 prompt 17 fixed_2      66.98 tok/s
+repeat 1 prompt 17 target_only  53.41 tok/s
+repeat 1 prompt 17 fixed_1      64.58 tok/s
+repeat 1 prompt 17 rl           66.02 tok/s
+repeat 1 prompt 17 fixed_3      65.71 tok/s
+repeat 1 prompt 17 fixed_4      64.84 tok/s
+repeat 1 prompt 17 random       60.63 tok/s
+repeat 1 prompt  8 rl           61.27 tok/s
+repeat 1 prompt  8 fixed_2      58.80 tok/s
+repeat 1 prompt  8 random       59.08 tok/s
+repeat 1 prompt  8 target_only  53.19 tok/s
+repeat 1 prompt  8 fixed_3      53.53 tok/s
+repeat 1 prompt  8 fixed_4      54.59 tok/s
+repeat 1 prompt  8 fixed_1      60.79 tok/s
+repeat 1 prompt  9 fixed_4      41.55 tok/s
+repeat 1 prompt  9 target_only  53.18 tok/s
+repeat 1 prompt  9 fixed_2      52.78 tok/s
+repeat 1 prompt  9 fixed_3      47.43 tok/s
+repeat 1 prompt  9 rl           54.51 tok/s
+repeat 1 prompt  9 random       50.00 tok/s
+repeat 1 prompt  9 fixed_1      57.01 tok/s
+repeat 1 prompt  1 target_only  53.11 tok/s
+repeat 1 prompt  1 fixed_1      61.65 tok/s
+repeat 1 prompt  1 fixed_2      55.53 tok/s
+repeat 1 prompt  1 random       51.51 tok/s
+repeat 1 prompt  1 fixed_4      47.52 tok/s
+repeat 1 prompt  1 rl           59.33 tok/s
+repeat 1 prompt  1 fixed_3      56.25 tok/s
+repeat 1 prompt  4 rl           51.57 tok/s
+repeat 1 prompt  4 fixed_1      59.65 tok/s
+repeat 1 prompt  4 fixed_3      45.94 tok/s
+repeat 1 prompt  4 fixed_2      51.78 tok/s
+repeat 1 prompt  4 random       41.98 tok/s
+repeat 1 prompt  4 target_only  53.53 tok/s
+repeat 1 prompt  4 fixed_4      41.02 tok/s
+repeat 2 prompt 13 fixed_3      66.33 tok/s
+repeat 2 prompt 13 random       61.34 tok/s
+repeat 2 prompt 13 fixed_2      65.25 tok/s
+repeat 2 prompt 13 target_only  53.22 tok/s
+repeat 2 prompt 13 fixed_4      63.08 tok/s
+repeat 2 prompt 13 fixed_1      68.98 tok/s
+repeat 2 prompt 13 rl           69.46 tok/s
+repeat 2 prompt 20 rl           68.20 tok/s
+repeat 2 prompt 20 fixed_4      64.49 tok/s
+repeat 2 prompt 20 fixed_1      67.75 tok/s
+repeat 2 prompt 20 fixed_2      61.45 tok/s
+repeat 2 prompt 20 random       55.29 tok/s
+repeat 2 prompt 20 target_only  53.45 tok/s
+repeat 2 prompt 20 fixed_3      66.27 tok/s
+repeat 2 prompt 16 fixed_2      64.34 tok/s
+repeat 2 prompt 16 random       60.51 tok/s
+repeat 2 prompt 16 fixed_3      68.46 tok/s
+repeat 2 prompt 16 rl           67.18 tok/s
+repeat 2 prompt 16 fixed_4      65.10 tok/s
+repeat 2 prompt 16 fixed_1      67.70 tok/s
+repeat 2 prompt 16 target_only  52.82 tok/s
+repeat 2 prompt  8 fixed_2      58.32 tok/s
+repeat 2 prompt  8 fixed_3      54.51 tok/s
+repeat 2 prompt  8 random       52.70 tok/s
+repeat 2 prompt  8 fixed_1      60.81 tok/s
+repeat 2 prompt  8 fixed_4      53.87 tok/s
+repeat 2 prompt  8 target_only  53.08 tok/s
+repeat 2 prompt  8 rl           60.18 tok/s
+repeat 2 prompt 19 random       59.82 tok/s
+repeat 2 prompt 19 rl           63.44 tok/s
+repeat 2 prompt 19 target_only  53.42 tok/s
+repeat 2 prompt 19 fixed_3      59.31 tok/s
+repeat 2 prompt 19 fixed_2      66.11 tok/s
+repeat 2 prompt 19 fixed_1      62.61 tok/s
+repeat 2 prompt 19 fixed_4      54.56 tok/s
+repeat 2 prompt 17 target_only  53.25 tok/s
+repeat 2 prompt 17 fixed_4      61.57 tok/s
+repeat 2 prompt 17 fixed_1      63.95 tok/s
+repeat 2 prompt 17 rl           64.23 tok/s
+repeat 2 prompt 17 fixed_3      65.32 tok/s
+repeat 2 prompt 17 fixed_2      66.02 tok/s
+repeat 2 prompt 17 random       55.20 tok/s
+repeat 2 prompt  7 fixed_2      52.93 tok/s
+repeat 2 prompt  7 fixed_3      49.89 tok/s
+repeat 2 prompt  7 fixed_4      44.32 tok/s
+repeat 2 prompt  7 rl           56.79 tok/s
+repeat 2 prompt  7 random       51.44 tok/s
+repeat 2 prompt  7 fixed_1      58.75 tok/s
+repeat 2 prompt  7 target_only  53.34 tok/s
+repeat 2 prompt  2 fixed_3      53.79 tok/s
+repeat 2 prompt  2 fixed_2      60.93 tok/s
+repeat 2 prompt  2 target_only  53.22 tok/s
+repeat 2 prompt  2 random       42.20 tok/s
+repeat 2 prompt  2 fixed_1      61.85 tok/s
+repeat 2 prompt  2 rl           56.10 tok/s
+repeat 2 prompt  2 fixed_4      47.12 tok/s
+repeat 2 prompt 11 fixed_3      50.16 tok/s
+repeat 2 prompt 11 fixed_2      52.23 tok/s
+repeat 2 prompt 11 fixed_4      47.01 tok/s
+repeat 2 prompt 11 fixed_1      54.29 tok/s
+repeat 2 prompt 11 target_only  53.23 tok/s
+repeat 2 prompt 11 rl           58.21 tok/s
+repeat 2 prompt 11 random       51.13 tok/s
+repeat 2 prompt  3 fixed_4      48.90 tok/s
+repeat 2 prompt  3 random       53.64 tok/s
+repeat 2 prompt  3 fixed_3      58.33 tok/s
+repeat 2 prompt  3 fixed_1      64.60 tok/s
+repeat 2 prompt  3 target_only  53.13 tok/s
+repeat 2 prompt  3 fixed_2      61.23 tok/s
+repeat 2 prompt  3 rl           55.65 tok/s
+repeat 2 prompt  9 fixed_2      53.06 tok/s
+repeat 2 prompt  9 random       49.39 tok/s
+repeat 2 prompt  9 target_only  53.04 tok/s
+repeat 2 prompt  9 fixed_3      47.93 tok/s
+repeat 2 prompt  9 rl           53.35 tok/s
+repeat 2 prompt  9 fixed_4      40.50 tok/s
+repeat 2 prompt  9 fixed_1      56.04 tok/s
+repeat 2 prompt  5 fixed_2      57.59 tok/s
+repeat 2 prompt  5 fixed_4      53.03 tok/s
+repeat 2 prompt  5 random       58.06 tok/s
+repeat 2 prompt  5 target_only  53.30 tok/s
+repeat 2 prompt  5 fixed_1      59.64 tok/s
+repeat 2 prompt  5 fixed_3      51.85 tok/s
+repeat 2 prompt  5 rl           55.89 tok/s
+repeat 2 prompt 18 fixed_1      57.23 tok/s
+repeat 2 prompt 18 target_only  53.12 tok/s
+repeat 2 prompt 18 rl           58.12 tok/s
+repeat 2 prompt 18 fixed_4      44.49 tok/s
+repeat 2 prompt 18 random       50.81 tok/s
+repeat 2 prompt 18 fixed_3      51.82 tok/s
+repeat 2 prompt 18 fixed_2      57.88 tok/s
+repeat 2 prompt 12 fixed_3      38.77 tok/s
+repeat 2 prompt 12 fixed_2      47.65 tok/s
+repeat 2 prompt 12 fixed_1      55.85 tok/s
+repeat 2 prompt 12 fixed_4      37.26 tok/s
+repeat 2 prompt 12 target_only  53.04 tok/s
+repeat 2 prompt 12 rl           53.02 tok/s
+repeat 2 prompt 12 random       49.06 tok/s
+repeat 2 prompt  1 fixed_2      57.57 tok/s
+repeat 2 prompt  1 fixed_3      56.14 tok/s
+repeat 2 prompt  1 random       52.34 tok/s
+repeat 2 prompt  1 fixed_4      47.85 tok/s
+repeat 2 prompt  1 fixed_1      62.20 tok/s
+repeat 2 prompt  1 target_only  53.05 tok/s
+repeat 2 prompt  1 rl           59.64 tok/s
+repeat 2 prompt 15 random       56.88 tok/s
+repeat 2 prompt 15 target_only  53.23 tok/s
+repeat 2 prompt 15 fixed_4      66.31 tok/s
+repeat 2 prompt 15 fixed_2      66.18 tok/s
+repeat 2 prompt 15 rl           68.50 tok/s
+repeat 2 prompt 15 fixed_3      67.80 tok/s
+repeat 2 prompt 15 fixed_1      68.97 tok/s
+repeat 2 prompt  6 fixed_1      61.66 tok/s
+repeat 2 prompt  6 fixed_2      57.24 tok/s
+repeat 2 prompt  6 fixed_4      45.02 tok/s
+repeat 2 prompt  6 random       50.63 tok/s
+repeat 2 prompt  6 fixed_3      51.39 tok/s
+repeat 2 prompt  6 target_only  53.25 tok/s
+repeat 2 prompt  6 rl           55.42 tok/s
+repeat 2 prompt 14 rl           53.77 tok/s
+repeat 2 prompt 14 fixed_2      56.39 tok/s
+repeat 2 prompt 14 fixed_4      48.09 tok/s
+repeat 2 prompt 14 fixed_3      48.23 tok/s
+repeat 2 prompt 14 random       53.61 tok/s
+repeat 2 prompt 14 fixed_1      54.95 tok/s
+repeat 2 prompt 14 target_only  53.17 tok/s
+repeat 2 prompt 10 fixed_2      53.99 tok/s
+repeat 2 prompt 10 fixed_4      41.37 tok/s
+repeat 2 prompt 10 random       49.62 tok/s
+repeat 2 prompt 10 rl           54.16 tok/s
+repeat 2 prompt 10 target_only  53.10 tok/s
+repeat 2 prompt 10 fixed_3      45.87 tok/s
+repeat 2 prompt 10 fixed_1      54.27 tok/s
+repeat 2 prompt  4 target_only  53.16 tok/s
+repeat 2 prompt  4 fixed_4      40.75 tok/s
+repeat 2 prompt  4 fixed_1      58.99 tok/s
+repeat 2 prompt  4 random       47.29 tok/s
+repeat 2 prompt  4 rl           50.88 tok/s
+repeat 2 prompt  4 fixed_2      52.82 tok/s
+repeat 2 prompt  4 fixed_3      45.85 tok/s
+repeat 1 prompt 11 standalone   53.30 tok/s
+repeat 1 prompt  4 standalone   53.55 tok/s
+repeat 1 prompt  3 standalone   53.48 tok/s
+repeat 1 prompt 13 standalone   53.43 tok/s
+repeat 1 prompt 16 standalone   53.53 tok/s
+repeat 1 prompt 17 standalone   53.42 tok/s
+repeat 1 prompt 20 standalone   53.47 tok/s
+repeat 1 prompt  8 standalone   53.52 tok/s
+repeat 1 prompt 15 standalone   53.50 tok/s
+repeat 1 prompt 14 standalone   53.34 tok/s
+repeat 1 prompt  6 standalone   53.47 tok/s
+repeat 1 prompt  1 standalone   53.15 tok/s
+repeat 1 prompt  9 standalone   53.40 tok/s
+repeat 1 prompt 12 standalone   53.41 tok/s
+repeat 1 prompt 18 standalone   53.47 tok/s
+repeat 1 prompt  2 standalone   53.30 tok/s
+repeat 1 prompt 19 standalone   53.04 tok/s
+repeat 1 prompt 10 standalone   53.15 tok/s
+repeat 1 prompt  7 standalone   53.44 tok/s
+repeat 1 prompt  5 standalone   53.39 tok/s
+repeat 2 prompt 16 standalone   53.38 tok/s
+repeat 2 prompt 11 standalone   53.29 tok/s
+repeat 2 prompt  9 standalone   53.24 tok/s
+repeat 2 prompt 18 standalone   53.23 tok/s
+repeat 2 prompt 17 standalone   53.23 tok/s
+repeat 2 prompt  5 standalone   53.16 tok/s
+repeat 2 prompt 20 standalone   52.71 tok/s
+repeat 2 prompt  7 standalone   52.66 tok/s
+repeat 2 prompt 15 standalone   52.65 tok/s
+repeat 2 prompt  1 standalone   53.12 tok/s
+repeat 2 prompt 12 standalone   53.23 tok/s
+repeat 2 prompt 14 standalone   52.90 tok/s
+repeat 2 prompt  4 standalone   53.14 tok/s
+repeat 2 prompt 10 standalone   53.22 tok/s
+repeat 2 prompt  2 standalone   53.30 tok/s
+repeat 2 prompt 13 standalone   53.12 tok/s
+repeat 2 prompt  8 standalone   53.18 tok/s
+repeat 2 prompt 19 standalone   53.31 tok/s
+repeat 2 prompt  3 standalone   53.25 tok/s
+repeat 2 prompt  6 standalone   53.22 tok/s
+# Results: test_diverse.tsv (20 prompts x 2 repeats)
+
+Best fixed budget chosen on the training profile: **fixed_1**. Speed-up column is relative to **standalone_target**.
+
+| Method | Tokens/s | Speed-up | code tok/s | fact tok/s | Mean draft | Acceptance | Same tokens as target |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| standalone_target | 53.26 | 1.000x | 53.23 | 53.27 | 0.00 | - | 40/40 |
+| target_only | 53.20 | 0.999x | 53.21 | 53.19 | 0.00 | - | 40/40 |
+| fixed_1 | 60.90 | 1.143x | 63.76 | 59.13 | 0.98 | 0.76 | 40/40 |
+| fixed_2 | 58.03 | 1.090x | 62.94 | 55.16 | 1.94 | 0.67 | 32/40 |
+| fixed_3 | 53.79 | 1.010x | 61.11 | 49.82 | 2.88 | 0.59 | 32/40 |
+| fixed_4 | 49.45 | 0.928x | 57.62 | 45.17 | 3.81 | 0.52 | 32/40 |
+| random | 52.62 | 0.988x | 56.93 | 50.09 | 0.93 | 0.67 | 34/40 |
+| **rl** | 58.85 | 1.105x | 63.90 | 55.90 | 1.19 | 0.73 | 36/40 |
+
+RL / baseline throughput ratio (prompt-cluster bootstrap 95% interval):
+
+| Baseline | Ratio | 95% interval |
+| --- | ---: | --- |
+| standalone_target | 1.105 | [1.065, 1.153] |
+| target_only | 1.106 | [1.065, 1.152] |
+| fixed_1 | 0.966 | [0.944, 0.989] |
+| fixed_2 | 1.014 | [0.989, 1.042] |
+| fixed_3 | 1.094 | [1.057, 1.137] |
+| fixed_4 | 1.190 | [1.142, 1.238] |
+| random | 1.118 | [1.089, 1.149] |
+
+RL decisions that hit an unvisited state (fallback rule): 0.
+
+Frozen greedy policy, no exploration or updates. Resident methods share one process and code path; randomized prompt/method order. Standalone target measured in a separate process without the draft model. Throughput = total output tokens / total generation wall seconds (prefill excluded).
+
+![comparison](comparison.png)
+
+![draft lengths](draft_lengths.png)
+

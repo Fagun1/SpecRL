@@ -1,0 +1,220 @@
+{
+  "schema": "ltd-adaptive-draft-q-v3",
+  "created_utc": "2026-10-23T20:17:49.782671+00:00",
+  "policy_sha256": "d9dc07440d1061377a16384e3421897dd30486db19109ebca699c15bc9f46d78",
+  "prompts": "dev.tsv",
+  "prompts_sha256": "c8819ac8c372e2981d10c4b466dec935b225e04a5656398f9463ac13bca67571",
+  "prompt_count": 22,
+  "repeats": 2,
+  "tokens": 48,
+  "best_fixed_budget_from_training_profile": 1,
+  "methods": [
+    {
+      "method": "standalone_target",
+      "runs": 44,
+      "tokens_per_second": 53.38378027599008,
+      "by_task": {
+        "code": 53.406011902632095,
+        "fact": 53.36126882757151
+      },
+      "mean_draft_length": 0,
+      "drafted": 0,
+      "accepted": 0,
+      "draft_length_counts": {
+        "0": 2098
+      },
+      "fallback_decisions": 0,
+      "exact_token_matches_vs_target_only": 44
+    },
+    {
+      "method": "target_only",
+      "runs": 44,
+      "tokens_per_second": 53.211984442255456,
+      "by_task": {
+        "code": 53.2108749538463,
+        "fact": 53.21310888462369
+      },
+      "mean_draft_length": 0,
+      "drafted": 0,
+      "accepted": 0,
+      "draft_length_counts": {
+        "0": 2098
+      },
+      "fallback_decisions": 0,
+      "exact_token_matches_vs_target_only": 44
+    },
+    {
+      "method": "fixed_1",
+      "runs": 44,
+      "tokens_per_second": 60.71104509970443,
+      "by_task": {
+        "code": 65.37630110015581,
+        "fact": 56.616599410510055
+      },
+      "mean_draft_length": 0.9850498338870431,
+      "drafted": 1186,
+      "accepted": 898,
+      "draft_length_counts": {
+        "0": 18,
+        "1": 1186
+      },
+      "fallback_decisions": 0,
+      "exact_token_matches_vs_target_only": 44
+    },
+    {
+      "method": "fixed_2",
+      "runs": 44,
+      "tokens_per_second": 57.525622301990474,
+      "by_task": {
+        "code": 62.69539210489537,
+        "fact": 53.096996768354856
+      },
+      "mean_draft_length": 1.948051948051948,
+      "drafted": 1800,
+      "accepted": 1176,
+      "draft_length_counts": {
+        "0": 18,
+        "1": 12,
+        "2": 894
+      },
+      "fallback_decisions": 0,
+      "exact_token_matches_vs_target_only": 34
+    },
+    {
+      "method": "fixed_3",
+      "runs": 44,
+      "tokens_per_second": 53.83255077361001,
+      "by_task": {
+        "code": 60.808260634998256,
+        "fact": 48.235537120854865
+      },
+      "mean_draft_length": 2.9023136246786634,
+      "drafted": 2258,
+      "accepted": 1324,
+      "draft_length_counts": {
+        "0": 14,
+        "1": 10,
+        "2": 14,
+        "3": 740
+      },
+      "fallback_decisions": 0,
+      "exact_token_matches_vs_target_only": 34
+    },
+    {
+      "method": "fixed_4",
+      "runs": 44,
+      "tokens_per_second": 50.24721186795093,
+      "by_task": {
+        "code": 58.79050167214668,
+        "fact": 43.84007656096516
+      },
+      "mean_draft_length": 3.797720797720798,
+      "drafted": 2666,
+      "accepted": 1406,
+      "draft_length_counts": {
+        "0": 12,
+        "1": 14,
+        "2": 20,
+        "3": 12,
+        "4": 644
+      },
+      "fallback_decisions": 0,
+      "exact_token_matches_vs_target_only": 32
+    },
+    {
+      "method": "random",
+      "runs": 44,
+      "tokens_per_second": 51.149284582765766,
+      "by_task": {
+        "code": 54.85322790560922,
+        "fact": 47.87617039185053
+      },
+      "mean_draft_length": 0.9328808446455505,
+      "drafted": 1237,
+      "accepted": 776,
+      "draft_length_counts": {
+        "0": 697,
+        "1": 315,
+        "2": 154,
+        "3": 82,
+        "4": 42,
+        "5": 16,
+        "6": 20
+      },
+      "fallback_decisions": 0,
+      "exact_token_matches_vs_target_only": 39
+    },
+    {
+      "method": "rl",
+      "runs": 44,
+      "tokens_per_second": 59.88512138500196,
+      "by_task": {
+        "code": 65.60038052520946,
+        "fact": 55.02665830293945
+      },
+      "mean_draft_length": 1.1595744680851063,
+      "drafted": 1308,
+      "accepted": 972,
+      "draft_length_counts": {
+        "0": 18,
+        "1": 920,
+        "2": 182,
+        "3": 8
+      },
+      "fallback_decisions": 0,
+      "exact_token_matches_vs_target_only": 42
+    }
+  ],
+  "rl_vs": {
+    "standalone_target": {
+      "ratio": 1.1217849518224532,
+      "ci95": [
+        1.0748875105971347,
+        1.1699110058499247
+      ]
+    },
+    "target_only": {
+      "ratio": 1.125406654397339,
+      "ci95": [
+        1.0778576616629616,
+        1.1743352742340183
+      ]
+    },
+    "fixed_1": {
+      "ratio": 0.9863958244608362,
+      "ci95": [
+        0.9745149009438041,
+        0.9972154524845267
+      ]
+    },
+    "fixed_2": {
+      "ratio": 1.0410164894979301,
+      "ci95": [
+        1.0225289515893374,
+        1.059831162193002
+      ]
+    },
+    "fixed_3": {
+      "ratio": 1.1124332866344329,
+      "ci95": [
+        1.0769401397949305,
+        1.1574505641115684
+      ]
+    },
+    "fixed_4": {
+      "ratio": 1.1918098369792007,
+      "ci95": [
+        1.1381941809833633,
+        1.243897035978776
+      ]
+    },
+    "random": {
+      "ratio": 1.1707909870782365,
+      "ci95": [
+        1.1483103765760339,
+        1.193920836305479
+      ]
+    }
+  },
+  "protocol": "Frozen greedy policy, no exploration or updates. Resident methods share one process and code path; randomized prompt/method order. Standalone target measured in a separate process without the draft model. Throughput = total output tokens / total generation wall seconds (prefill excluded)."
+}
