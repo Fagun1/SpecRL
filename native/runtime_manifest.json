@@ -1,0 +1,9 @@
+{
+  "llama_cpp_commit": "74ade5274",
+  "ollama_version_observed": "0.30.10",
+  "runtime_sha256": {
+    "libllama.dll": "c7329d12e0a6203553d0309eedf32f789eab99738e476bd441e1e8a341b1e0e9",
+    "ggml.dll": "62969ca3fdbe77cc0a91b7d9c7efc2e789eb910e8d6d73c14af6701e3e8a7c56",
+    "ggml-base.dll": "c23dae3934a5c1ab84465150978c55e946b3a33c6f9f256d704fd31fe17acad5"
+  }
+}

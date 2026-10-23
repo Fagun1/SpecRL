@@ -1,0 +1,16 @@
+[
+  {
+    "role": "target",
+    "file": "Qwen3-4B-Q4_K_M.gguf",
+    "bytes": 2497281312,
+    "sha256": "f6f851777709861056efcdad3af01da38b31223a3ba26e61a4f8bf3a2195813a",
+    "source": "User-downloaded local GGUF; source repository not assumed"
+  },
+  {
+    "role": "draft",
+    "file": "Qwen3-0.6B-Q8_0.gguf",
+    "bytes": 639446688,
+    "sha256": "9465e63a22add5354d9bb4b99e90117043c7124007664907259bd16d043bb031",
+    "source": "User-downloaded local GGUF; source repository not assumed"
+  }
+]

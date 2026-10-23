@@ -1,0 +1,7 @@
+models/
+*.gguf
+.venv/
+__pycache__/
+*.tmp
+runs/smoke/
+runs/demo/
